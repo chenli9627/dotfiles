@@ -1,0 +1,12 @@
+[
+  {
+    "command": "editor.action.clipboardCopyAction",
+    "key": "ctrl+c",
+    "when": "textInputFocus"
+  },
+  {
+    "command": "workbench.view.explorer",
+    "key": "ctrl+e",
+    "when": "viewContainer.workbench.view.explorer.enabled"
+  }
+]

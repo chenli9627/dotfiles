@@ -1,0 +1,14 @@
+{
+  "chat.agent.enabled": false,
+  "chat.commandCenter.enabled": false,
+  "editor.fontFamily": "CaskaydiaMono Nerd Font Mono",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "extensions.autoCheckUpdates": false,
+  "extensions.autoUpdate": false,
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "update.mode": "none",
+  "workbench.colorTheme": "Gruvbox Material Dark"
+}
