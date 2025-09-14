@@ -1,0 +1,10 @@
+*
+
+!README.md
+!/fcitx/**/*
+!/fcitx/
+!/fcitx5/**/*
+!/fcitx5/
+!/nvim/**/*
+!/nvim/
+!.gitignore
