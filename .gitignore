@@ -1,10 +1,14 @@
 *
 
 !README.md
-!/fcitx/**/*
-!/fcitx/
 !/fcitx5/**/*
 !/fcitx5/
 !/nvim/**/*
 !/nvim/
 !.gitignore
+!/goldendict/
+!/goldendict/**/*
+!/Code/User/settings.json
+!/Code/User/keybindings.json
+!/Code/User/
+!/Code/
