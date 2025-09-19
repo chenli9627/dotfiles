@@ -1,13 +1,13 @@
 *
 
 !README.md
-!/fcitx5/**/*
+!/fcitx5/**
 !/fcitx5/
-!/nvim/**/*
+!/nvim/**
 !/nvim/
 !.gitignore
 !/goldendict/
-!/goldendict/**/*
+!/goldendict/**
 !/Code/User/settings.json
 !/Code/User/keybindings.json
 !/Code/User/
@@ -16,3 +16,5 @@
 !/hypr/*
 !/waybar/
 !/waybar/*
+!/zed/
+!/zed/**
