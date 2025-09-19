@@ -12,3 +12,7 @@
 !/Code/User/keybindings.json
 !/Code/User/
 !/Code/
+!/hypr/
+!/hypr/*
+!/waybar/
+!/waybar/*
