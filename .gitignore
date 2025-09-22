@@ -18,3 +18,5 @@
 !/waybar/*
 !/zed/
 !/zed/**
+!/swaync/
+!swaync/**
