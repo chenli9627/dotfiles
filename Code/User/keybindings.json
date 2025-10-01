@@ -1,12 +1,21 @@
 [
-  {
-    "command": "editor.action.clipboardCopyAction",
-    "key": "ctrl+c",
-    "when": "textInputFocus"
-  },
-  {
+  /* {
     "command": "workbench.view.explorer",
     "key": "ctrl+e",
     "when": "viewContainer.workbench.view.explorer.enabled"
-  }
+  }, */
+  {
+    "key": "ctrl+q",
+    "command": "-workbench.action.quit"
+  },
+  /*
+  {
+    "key": "ctrl+w",
+    "command": "workbench.action.closeActiveEditor"
+  }, */
+  {
+    "key": "ctrl+w",
+    "command": "workbench.action.closeActiveEditor",
+    "when": "!editorTextFocus && !filesExplorerFocus && !searchViewletFocus && !terminalFocus && neovim.mode != 'cmdline'"
+  },
 ]
