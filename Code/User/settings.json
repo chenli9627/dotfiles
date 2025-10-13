@@ -1,18 +1,17 @@
 {
   "chat.agent.enabled": true,
   "editor.fontFamily": "'CaskaydiaMono Nerd Font Mono','Noto Sans CJK SC'",
-  "editor.fontSize": 16,
+  "editor.fontSize": 13,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
  /*  "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1,
   }, */
   "update.mode": "none",
-  "github.copilot.nextEditSuggestions.enabled": true,
+  "github.copilot.nextEditSuggestions.enabled": false,
   "chat.editor.fontFamily": "'CaskaydiaMono Nerd Font Mono','Noto Sans CJK SC'",
   "chat.fontFamily": "'Noto Sans CJK SC'",
   "terminal.integrated.fontFamily": "'CaskaydiaMono Nerd Font Mono','Noto Sans CJK SC'",
-  "workbench.colorTheme": "Catppuccin Mocha",
   "vscode-neovim.neovimClean": false,
   "vscode-neovim.ctrlKeysForInsertMode": [
     "a",
@@ -59,4 +58,5 @@
   "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1
   },
+  "chat.fontSize": 14,
   }
