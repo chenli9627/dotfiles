@@ -7,12 +7,18 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "agent": {
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "gpt-4.1"
+    }
+  },
   "telemetry": {
     "diagnostics": false,
     "metrics": false
   },
   "vim_mode": true,
-  "ui_font_size": 14,
+  "ui_font_size": 15,
   "ui_font_family": "CaskaydiaMono Nerd Font Mono",
   "buffer_font_family": "CaskaydiaMono Nerd Font Mono",
   "buffer_font_size": 14,
@@ -20,5 +26,7 @@
     "mode": "dark",
     "light": "One Light",
     "dark": "One Dark"
-  }
+  },
+  "format_on_save": "off"
+  // "editor.formatOnSave": false
 }
