@@ -16,4 +16,9 @@
 !/waybar/*
 !/zed/
 !/zed/**
-
+!/kitty/
+!/kitty/**
+!/ghostty/
+!/ghostty/**
+!/zellij/
+!/zellij/**
