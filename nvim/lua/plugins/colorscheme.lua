@@ -34,9 +34,17 @@ return {
   },
   {
     "rose-pine/neovim",
-    name = "rose-pine",
+    name = "rose-pine-dawn",
     config = function()
-      vim.cmd("colorscheme rose-pine")
+      vim.cmd("colorscheme rose-pine-dawn")
     end,
+  },
+  {
+    "catppuccin/nvim",
+    name = "catppuccin-latee",
+    priority = 1000,
+    -- config = function()
+    --   vim.cmd("colorscheme catppuccin-latee")
+    -- end,
   },
 }

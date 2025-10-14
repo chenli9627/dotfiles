@@ -50,6 +50,4 @@ font-style-bold = ExtraBold
 font-style-italic = SemiBold Italic
 font-style-bold-italic = ExtraBold Italic
 font-size = 11
-
-window-padding-x = 0
-window-padding-y = 0
+theme = light:rose-pine-dawn,dark:rose-pine
