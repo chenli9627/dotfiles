@@ -58,6 +58,6 @@
   "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1
   },
-  "chat.fontSize": 14,
-  "workbench.colorTheme": "Rosé Pine Dawn",
+  "workbench.colorTheme": "GitHub Light",
+  "chat.editor.fontSize": 12,
   }

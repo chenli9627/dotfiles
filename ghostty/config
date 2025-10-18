@@ -44,10 +44,18 @@
 
 
 font-family = JetBrainsMono Nerd Font Mono
-font-family = Noto Fonts CJK SC
+font-family = Noto Sans CJK SC
 font-style = SemiBold
 font-style-bold = ExtraBold
 font-style-italic = SemiBold Italic
 font-style-bold-italic = ExtraBold Italic
 font-size = 11
-theme = light:rose-pine-dawn,dark:rose-pine
+# theme = light:rose-pine-dawn,dark:rose-pine
+# theme = dark:gruvbox-material,light:GruvboxLightHard
+# theme = Guezwhoz
+theme = NvimDark
+keybind = alt+l=next_tab
+keybind = alt+h=last_tab
+window-padding-x = 0
+window-padding-y = 0
+window-padding-balance = true
