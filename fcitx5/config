@@ -16,8 +16,7 @@ ModifierOnlyKeyTimeout=250
 2=Hangul
 
 [Hotkey/AltTriggerKeys]
-0=Shift+Shift_L
-1=Shift+Shift_R
+0=Shift_L
 
 [Hotkey/EnumerateGroupForwardKeys]
 0=Super+space
@@ -52,7 +51,7 @@ ActiveByDefault=False
 # Reset state on Focus In
 resetStateWhenFocusIn=No
 # Share Input State
-ShareInputState=Program
+ShareInputState=No
 # Show preedit in application
 PreeditEnabledByDefault=True
 # Show Input Method Information when switch input method
