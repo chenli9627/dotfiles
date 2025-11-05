@@ -59,3 +59,7 @@ keybind = alt+h=last_tab
 window-padding-x = 0
 window-padding-y = 0
 window-padding-balance = true
+
+
+# command = /etc/profiles/per-user/chen/bin/fish --login --interactive
+command = fish --login --interactive

@@ -1,7 +1,7 @@
 {
   "chat.agent.enabled": true,
   "editor.fontFamily": "'CaskaydiaMono Nerd Font Mono','Noto Sans CJK SC'",
-  "editor.fontSize": 13,
+  "editor.fontSize": 14.5,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
  /*  "extensions.experimental.affinity": {
@@ -58,6 +58,6 @@
   "extensions.experimental.affinity": {
     "asvetliakov.vscode-neovim": 1
   },
-  "workbench.colorTheme": "GitHub Light",
   "chat.editor.fontSize": 12,
+  "workbench.colorTheme": "One Dark Pro Flat",
   }
