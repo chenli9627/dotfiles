@@ -50,7 +50,7 @@
   "rustaceanvim": { "branch": "master", "commit": "ae35f7592dcdef8f131f35ba1edcfaabdce3dd0a" },
   "snacks.nvim": { "branch": "main", "commit": "1848d74e7c01a0c4686b6e8353158507a73dfe10" },
   "todo-comments.nvim": { "branch": "main", "commit": "411503d3bedeff88484de572f2509c248e499b38" },
-  "tokyonight.nvim": { "branch": "main", "commit": "3b608269ab1d4646af7e02aca45ad1e64721abb9" },
+  "tokyonight.nvim": { "branch": "main", "commit": "5da1b76e64daf4c5d410f06bcb6b9cb640da7dfd" },
   "trouble.nvim": { "branch": "main", "commit": "bd67efe408d4816e25e8491cc5ad4088e708a69a" },
   "ts-comments.nvim": { "branch": "main", "commit": "123a9fb12e7229342f807ec9e6de478b1102b041" },
   "typst-preview.nvim": { "branch": "master", "commit": "64469f832c4d214683c12e0fceba98055cb1ce3b" },
