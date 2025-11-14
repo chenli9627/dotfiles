@@ -2,8 +2,6 @@
 hypr/hyprland.conf
 
 !README.md
-!/fcitx5/**
-!/fcitx5/
 !/nvim/**
 !/nvim/
 !.gitignore
