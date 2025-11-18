@@ -89,7 +89,7 @@ output "eDP-1" {
     // mode "2240x1400@60.002"
 
     // You can use integer or fractional scale, for example use 1.5 for 150% scale.
-    scale 1.4
+    scale 1.7
 
     // Transform allows to rotate the output counter-clockwise, valid values are:
     // normal, 90, 180, 270, flipped, flipped-90, flipped-180 and flipped-270.
@@ -372,7 +372,7 @@ binds {
     Mod+Shift+B hotkey-overlay-title="Open a Browser: Chrome" { spawn "google-chrome-stable" "--enable-features=TouchpadOverscrollHistoryNavigation"; }
     Mod+Alt+L hotkey-overlay-title="Lock the Screen: swaylock" { spawn-sh "niri msg action power-off-monitors && sleep 1 && swaylock"; }
     Mod+Space hotkey-overlay-title="App launcher" { spawn "fuzzel" ; }
-    Mod+U hotkey-overlay-title="Emoji selector: bemoji" { spawn-sh "BEMOJI_PICKER_CMD=\"fuzzel -d\" bemoji -t" ; }
+    Mod+U hotkey-overlay-title="Emoji selector: bemoji" { spawn-sh "BEMOJI_PICKER_CMD=\"fuzzel -d\" bemoji -c" ; }
     Mod+Shift+N hotkey-overlay-title="Network manager: fuzzel" { spawn "networkmanager_dmenu" ; }
     Mod+Ctrl+B hotkey-overlay-title="Bluetooth manager: bzmenu" { spawn-sh "bzmenu -l fuzzel" ; }
     Mod+O hotkey-overlay-title="Clipboard history: cliphist" {spawn-sh "cliphist list | fuzzel --dmenu --with-nth 2  | cliphist decode | wl-copy"; }
