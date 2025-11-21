@@ -60,4 +60,6 @@
   },
   "chat.editor.fontSize": 12,
   "workbench.colorTheme": "One Dark Pro Flat",
+  "remote.SSH.configFile": "~/ssh-config",
+  "terminal.integrated.defaultProfile.linux": "fish",
   }
