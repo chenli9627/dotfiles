@@ -7,6 +7,30 @@
 // custom settings, run `zed: open default settings` from the
 // command palette (cmd-shift-p / ctrl-shift-p)
 {
+  "edit_predictions": {
+    "mode": "subtle"
+  },
+  "features": {
+    "edit_prediction_provider": "copilot"
+  },
+  "ssh_connections": [
+    {
+      "host": "192.168.66.35",
+      "username": "chen",
+      "projects": [
+        {
+          "paths": [
+            "/home/chen"
+          ]
+        },
+        {
+          "paths": [
+            "/home/chen/code/react/thinking"
+          ]
+        }
+      ]
+    }
+  ],
   "agent": {
     "default_model": {
       "provider": "copilot_chat",
